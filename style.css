@@ -1,0 +1,7 @@
+.text {
+  padding: 60px;
+  text-align: center;
+  color: blue;
+  font-size: 30px;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
